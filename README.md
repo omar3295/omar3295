@@ -1,5 +1,5 @@
 -  hello everyone , my name is Omar ! 
--  I am interested in building websites and designing unique logos and designs
+-  I am interested in building websites and designing unique logos and web designs
 -  I’m currently learning to be a full stack web developer and designer 
 -  I’m looking to collaborate on several projects
 -  How to reach me : omarsultan06@gmail.com / whatsapp : +02 01125470096
