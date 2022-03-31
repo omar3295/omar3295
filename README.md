@@ -1,4 +1,4 @@
--  hello everyone , my name is Omar , 
+-  hello everyone , my name is Omar ! 
 -  I am interested in building websites and designing unique logos and designs
 -  I’m currently learning to be a full stack web developer and designer 
 -  I’m looking to collaborate on several projects
